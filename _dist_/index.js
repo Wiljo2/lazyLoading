@@ -15,7 +15,7 @@ const createNodeImg = () => {
 
     const imageWrapper = document.createElement("div");
     imageWrapper.className = "bg-gray-300";
-    imageWrapper.style.minHeight = "200px";
+    imageWrapper.style.minHeight = "150px";
     imageWrapper.style.display = "inline-block"
     imageWrapper.style.borderRadius = "20px"
 
